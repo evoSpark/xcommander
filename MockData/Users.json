@@ -1,0 +1,11 @@
+﻿[
+  {
+    "Username": "stanchev",
+    "Password": "123456",
+    "DeviceTokens": [
+      "DeviceToken",
+      "DeviceToken2"
+    ],
+    "IsActive": true
+  }
+]
